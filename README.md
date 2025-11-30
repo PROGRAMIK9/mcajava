@@ -1,22 +1,27 @@
+# OOPs with Java practical programs for MCA
+  ##Program 3
+    Java program to demonstrate the package concepts for the given scenario
+    Complete the following:
+    1. Create a package named shapes
+    2. Create classes in the package representing common shapes like Square, Triangle and Circle
+    3. Import and compile the classes in the program to find the area of different shapes
 
-## Getting Started
+    File Structure: .
+    └── mcajava/
+    └── src(package)/
+        ├── shapes(package)/
+        │   ├── Square.java
+        │   ├── Circle.java
+        │   └── Tri.java
+        └── Area.java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+  ##Program 4
+  Write a Java program
+  a) Create a vehicle interface with a concrete class as car and motorcycle to implement the vehicle interface methods
+  b) Demonstrate runtime polymorphism with an abstract class
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
- If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-## Java Program to 
-
+   File Structure: .
+└── mcajava/
+    └── src(package)/
+        └── p04/
+            └── Program4.java
