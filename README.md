@@ -20,8 +20,9 @@
   a) Create a vehicle interface with a concrete class as car and motorcycle to implement the vehicle interface methods
   b) Demonstrate runtime polymorphism with an abstract class
 
-     File Structure: .
-      └── mcajava/
-      └── src(package)/
-          └── p04/
-              └── Program4.java
+     File Structure:.
+    └── mcajava/
+        └── src(package)/
+            └── p04/
+                ├── Program4.java
+                └── PrinterDemo.java
