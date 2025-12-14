@@ -1,4 +1,4 @@
-# OOPs with Java practical programs for MCA
+# OOPs with Java practical programs for MCA (RVCE)
 1. Write a Java program to demonstrate the concepts
    a. Scope of variable
    b. this keyword
