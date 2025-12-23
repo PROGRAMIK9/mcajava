@@ -1,3 +1,4 @@
+package p04;
 //interface Vehicle that defines the basic operations for vehicles
 interface Vehicle{
     void start();
@@ -48,13 +49,15 @@ public class Main {
         // using the Vehicle interface and VehicleBase abstract class
         // creating instances of Car and MotorBike and invoking their methods
         Vehicle car = new Car();
+        VehicleBase car=new Car();
         car.start();
         car.stop();
-        ((Car) car).Drive();
+        car.Drive();
 
         Vehicle bike = new MotorBike();
+        VehicleBase bike=new MotorBike();
         bike.start();
         bike.stop();
-        ((MotorBike) bike).Drive();
+        bike.Drive();
     }
 }

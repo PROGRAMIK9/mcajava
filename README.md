@@ -1,27 +1,29 @@
-# OOPs with Java practical programs for MCA
-  ##Program 3
-    Java program to demonstrate the package concepts for the given scenario
-    Complete the following:
-    1. Create a package named shapes
-    2. Create classes in the package representing common shapes like Square, Triangle and Circle
-    3. Import and compile the classes in the program to find the area of different shapes
+# OOPs with Java practical programs for MCA (RVCE)
+1. Write a Java program to demonstrate the concepts
+   a. Scope of variable
+   b. this keyword
 
-    File Structure: .
-    └── mcajava/
-    └── src(package)/
-        ├── shapes(package)/
-        │   ├── Square.java
-        │   ├── Circle.java
-        │   └── Tri.java
-        └── Area.java
+2. Write a Java program to demonstrate the concepts
+   a. Constructor overloading and method overloading
+   b. Static keyword
 
-  ##Program 4
-  Write a Java program
-  a) Create a vehicle interface with a concrete class as car and motorcycle to implement the vehicle interface methods
-  b) Demonstrate runtime polymorphism with an abstract class
+3. Complete the following:
+   a. Create a package named shape.
+   b. Create classes in the package representing common shapes like Square, Triangle, and Circle.
+   c. Import and compile these classes in another program to find the area of different shapes.
 
-     File Structure: .
-      └── mcajava/
-      └── src(package)/
-          └── p04/
-              └── Program4.java
+4. Write a Java program to demonstrate the concepts
+   a. Abstraction
+   b. Run Time Polymorphism
+
+5. Write a Java program to demonstrate multiple interfaces
+
+6. Write a Java program to demonstrate user defined Exception Handling using throw, throws
+
+7. Write a Java program that demonstrates the Thread Life Cycle
+
+8. Write a Java code to demonstrate producer & consumer problem using thread wait & notify methods
+
+9. Write a Java program to demonstrate Generic classes and methods
+
+10. Demonstrate RESTful web API to create a web resource which can be accessed using REST URI’s and demonstrate the concept of GET, POST, PUT & DELETE
